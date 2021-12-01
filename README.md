@@ -2,12 +2,20 @@
 
 ### Overview
 
+From 2015 to 2019, Montgomery Country averaged approximately 21100 automobile crashes per year. For the years 2020 and 2021 (January to November), the number of car crashes is 13800. The sudden drop in crashes is undoubtedly attributable to fewer drivers on the road, because of the pandemic which emerged circa March 2020.
 
+<img src="./images/crash_by_year.png">
 
+Montgomery County officials suspect that the average number of crashes will return to pre-pandemic levels once the county (and country) returns to normal.  In fact, despite there being fewer cars on the road, the county (and state) have noticed an [uptick in risky driving such as speeding](https://wtop.com/maryland/2020/10/concerning-uptick-in-drivers-speeds-since-pandemic-shutdown/) The nation has also noticed the [same uptick](https://www.nhtsa.gov/open-letter-driving-public) despite fewer drivers.
+
+Montgomery County has asked us to perform a data analysis of their [car crash data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632) to determine if there are any factors that can be mitigated that will reduce the number of crashes and predict reckless drivers.
 
 ### Problem Statement
 
-Can features such as speed limit, time of day, surface condition, and time of day be used to classify whether a driver is at fault for an automobile crash?
+Can an analysis on Montgomery County crash data yield the following?:
+
+> - Insights into which individual _(or combination of)_ factors contribute most to crashes?
+> - Can features such as speed limit, time of day, surface condition, and time of day be used to classify whether a driver is at fault for an automobile crash? 
 
 ---
 
