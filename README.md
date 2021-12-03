@@ -54,13 +54,24 @@ Source: https://catalog.data.gov/dataset/crash-reporting-drivers-data
 
 ### Analysis Summary
 
+We were able to build a model to predict driver fault with a 90% accuracy rate.  The largest contributors to crashes overall are: vehicle movement _(largest contributor- backing up, changing lanes, and performing U-turns)._
 
+Further, we learned, surprisingly, that many of the crashes occurred in broad daylight, under dry surfaces, on state highways (50.5%).
 
 ---
 
-### Findings 
+### Recommendations 
 
+To reduce fatalities and serious injuries...
+> - continue to focus on campaigns that address intoxicated and distracted driving.
+> - consider supplementing alternative forms of transportation such as public transportation, taxis, and ride-sharing.
 
+To reduce overall crashes... 
+
+> - encourage other forms of transportation during daylight  (bus, public bikes, scooters)
+> - increase controls on state highways (‘your speed’ signs, speed traps, traffic controls)
+> - defensive driving PSAs highlighting the dangers of everyday maneuvers (Backing up, u-turns, lane changes, passing and entering traffic )
+> - increase awareness around traffic controls and consider enforcement mechanisms
 
 ---
 
