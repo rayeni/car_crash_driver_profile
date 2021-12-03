@@ -6,7 +6,7 @@
 2. [Problem Statement](#problem-statement)
 3. [Dataset](#dataset)
 4. [Software Requirments](#software-requirements)
-5. [Analysis Summary](#analysis summary)
+5. [Analysis Summary](#analysis-summary)
 6. [Recommendations](#recommendations)
 
 ### Overview
