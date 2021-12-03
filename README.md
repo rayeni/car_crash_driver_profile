@@ -52,6 +52,11 @@ Source: https://catalog.data.gov/dataset/crash-reporting-drivers-data
 
 ---
 
+### Software Requirements
+
+The software requirements for this project are expected Python data analysis packages such as `pandas`, _(for organization of the data)_, `numpy`, _(for computation of data)_ `seaborn` _(for graphing and plotting)_, and `scikit-learn` _(for building models around the data)._
+
+
 ### Analysis Summary
 
 We built a logistic regression model that is able to determine driver fault in a crash based on basic crash facts. The model showed 89% accuracy for both training and testing with 87.5% F1 score. We saw very mild improvement in using a random forest model but lost the interpretability in terms of sign of correlation with driver fault.
