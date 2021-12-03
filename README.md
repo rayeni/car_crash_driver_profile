@@ -54,9 +54,15 @@ Source: https://catalog.data.gov/dataset/crash-reporting-drivers-data
 
 ### Analysis Summary
 
-We were able to build a model to predict driver fault with a 90% accuracy rate.  The largest contributors to crashes overall are: vehicle movement _(largest contributor- backing up, changing lanes, and performing U-turns)._
+We built a logistic regression model that is able to determine driver fault in a crash based on basic crash facts. The model showed 89% accuracy for both training and testing with 87.5% F1 score. We saw very mild improvement in using a random forest model but lost the interpretability in terms of sign of correlation with driver fault.
 
-Further, we learned, surprisingly, that many of the crashes occurred in broad daylight, under dry surfaces, on state highways (50.5%).
+Overall the features most associated with driver fault were vehicle movement, driver distraction, driver substance abuse. The movement most associated with accidents was backing up. Changing langes, passing and u-turns were also strongly correlated with driver fault. With the exception of u-turns these are very basic maneuvers that drivers do everyday.
+
+Speed limit was negatively correlated with driver fault in accidents, indicating that driver-caused accidents are more likely in lower speed environments.
+
+Traffic controls were associated with fault when the signs were related to warnings, railway crossings, flashing lights and school-zones. This is a particuarly troubling finding given that it means people are disregarding traffic controls.
+
+Daylight conditions were actually the most correlated with driver fault in crashes. They are also highly prevalent in the crash data and thus should be a focus of mitigation strategies.
 
 ---
 
