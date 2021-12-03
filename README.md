@@ -26,7 +26,9 @@ Can an analysis on Montgomery County crash data yield the following?:
 The following data set was used in the analysis:
 
 * [`crash_reporting_drivers_data.csv`](./data/crash_reporting_drivers_data.csv)
+
 Source: https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632
+
 Source: https://catalog.data.gov/dataset/crash-reporting-drivers-data
 
 
