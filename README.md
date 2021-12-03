@@ -1,5 +1,14 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Car Crash Data, Montgomery County, MD
 
+### Table of Contents
+
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [Dataset](#dataset)
+4. [Software Requirments](#software-requirements)
+5. [Analysis Summary](#analysis summary)
+6. [Recommendations](#recommendations)
+
 ### Overview
 
 From 2015 to 2019, Montgomery Country averaged approximately 21100 automobile crashes per year. For the years 2020 and 2021 (January to November), the number of car crashes is 13800. The sudden drop in crashes is undoubtedly attributable to fewer drivers on the road, because of the pandemic which emerged circa March 2020.
@@ -10,6 +19,8 @@ Montgomery County officials suspect that the average number of crashes will retu
 
 Montgomery County has asked us to perform a data analysis of their [car crash data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632) to determine if there are any factors that can be mitigated that will reduce the number of crashes and predict reckless drivers.
 
+---
+
 ### Problem Statement
 
 Can an analysis on Montgomery County crash data yield the following?:
@@ -19,7 +30,7 @@ Can an analysis on Montgomery County crash data yield the following?:
 
 ---
 
-### Datasets
+### Dataset
 
 #### Data Used in Analysis
 
@@ -56,6 +67,7 @@ Source: https://catalog.data.gov/dataset/crash-reporting-drivers-data
 
 The software requirements for this project are expected Python data analysis packages such as `pandas`, _(for organization of the data)_, `numpy`, _(for computation of data)_ `seaborn` _(for graphing and plotting)_, and `scikit-learn` _(for building models around the data)._
 
+---
 
 ### Analysis Summary
 
